@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">11</string>
+    <string name="choicecity">Выберите город</string>
+    <string name="omsk">Омск</string>
+    <string name="moskow">Москва\n</string>
+    <string name="kasp">Каспийск</string>
+    <string name="novosib">Новосибирск\n</string>
+    <string name="tumen">Тюмень\n\n</string>
+    <string name="pogoda">Узнавай о погоде\nв нашем приложении!</string>
+    <string name="utro">Утро                       5°</string>
+</resources>
